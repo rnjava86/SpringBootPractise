@@ -1,2 +1,2 @@
 # SpringBootPractise
-SpringBoot Examples for investigation
+SpringBoot Examples for basic to expert
